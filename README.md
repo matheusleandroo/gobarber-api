@@ -91,7 +91,7 @@ After clone repository, go to folder and follow this steps:
 - Run **`yarn dev`** to start de aplication;
 - Run **`yarn queue`** in another terminal to start de queue.
 
-Now you can use your REST API Client to test "**Gympoint**".
+Now you can use your REST API Client to test "**GoBarber**".
 
 ## Built With
 
