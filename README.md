@@ -115,7 +115,7 @@ Now you can use your REST API Client to test "**GoBarber**".
 ## Authors
 
 <ul>
-  <li>Matheus Leandro</li>
+  <li><a href="http://matheusleandro.com">Matheus Leandro</a></li>
 </ul>
 
 ## License
