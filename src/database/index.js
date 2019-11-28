@@ -28,6 +28,9 @@ class Database {
       useNewUrlParser: true,
       useFindAndModify: true,
       useUnifiedTopology: true,
+      auth: { authSource: process.env.MONGO_AUTHSOURCE },
+      user: process.env.MONGO_USER,
+      pass: process.env.MONGO_PASS,
     });
   }
 }
