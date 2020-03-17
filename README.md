@@ -1,6 +1,14 @@
-# GoBarber
+<h1 align="center">
+  <img alt="RocketShoes" title="RocketShoes" src="https://github.com/matheusleandroo/gobarber-web/blob/master/src/assets/logo-purple.svg" width="200px" />
+</h1>
 
-A simple project to barber shop manager.
+<h1 align="center">
+  GoBarber API
+</h1>
+
+<h3 align="center">
+  A simple project to barber shop manager.
+</h3>
 
 ## Getting Started
 
